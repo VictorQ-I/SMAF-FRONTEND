@@ -1,0 +1,6 @@
+export { default as Dashboard } from './Dashboard'
+export { default as AuthPage } from './AuthPage'
+export { default as TransactionsListPage } from './TransactionsListPage'
+export { default as TransferFormPage } from './TransferFormPage'
+export { default as RulesManagementPage } from './RulesManagementPage'
+export { default as CreateClientPage } from './CreateClientPage'
